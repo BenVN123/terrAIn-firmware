@@ -1,1 +1,1 @@
-# secret-soilmesh-firmware
+# TerrAIn Firmware
